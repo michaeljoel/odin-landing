@@ -3,3 +3,8 @@ body {
   flex-direction: column;
   font-family: "Roboto";
 }
+
+.header,
+.footer {
+  background-color: #1f2937;
+}
