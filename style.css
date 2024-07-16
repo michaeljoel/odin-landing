@@ -123,6 +123,7 @@ body {
 .information-card-subtext {
   text-align: center;
   padding: 8px 0px;
+  color: #1f2937;
 }
 
 .quote {
@@ -133,6 +134,7 @@ body {
 .quote-secondary {
   font-size: 18px;
   font-weight: 700;
+  color: #1f2937;
 }
 
 .quote-main {
