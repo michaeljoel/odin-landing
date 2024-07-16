@@ -37,3 +37,39 @@ body {
     gap: 16px;
   }
 }
+
+.hero {
+  display: flex;
+
+  button {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin: 8px 0px;
+    font-weight: 900;
+  }
+}
+
+.hero-text {
+  color: #f9faf8;
+  padding-right: 16px;
+}
+
+.hero-main {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.hero-secondary {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.hero-image {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
