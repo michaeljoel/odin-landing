@@ -20,21 +20,30 @@ body {
 
   a {
     text-decoration: none;
-    color: #f9faf8;
   }
 }
 
 .logo {
-  font-weight: 900;
+  font-size: 24px;
+
+  a {
+    color: #f9faf8;
+  }
 }
 
 .links {
+  font-size: 18px;
+
   ul {
     display: flex;
     list-style: none;
     flex-direction: row;
     padding: 0;
     gap: 16px;
+  }
+
+  a {
+    color: #e5e7eb;
   }
 }
 
