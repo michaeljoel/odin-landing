@@ -98,10 +98,15 @@ body {
 }
 
 .information-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   padding: 0;
 }
 
 .information-card-image {
+  display: flex;
+  justify-content: center;
   img {
     width: 150px;
     height: 150px;
