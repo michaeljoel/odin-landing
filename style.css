@@ -120,6 +120,11 @@ body {
   }
 }
 
+.information-card-subtext {
+  text-align: center;
+  padding: 8px 0px;
+}
+
 .quote {
   background-color: #e5e7eb;
   padding: 64px 0px;
