@@ -99,7 +99,7 @@ body {
 .information-images {
   display: flex;
   justify-content: center;
-  gap: 8px;
+  gap: 32px;
 }
 
 .information-card {
