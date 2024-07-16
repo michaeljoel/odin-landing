@@ -12,3 +12,28 @@ body {
 .footer {
   background-color: #1f2937;
 }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 0px;
+
+  a {
+    text-decoration: none;
+    color: #f9faf8;
+  }
+}
+
+.logo {
+  font-weight: 900;
+}
+
+.links {
+  ul {
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    padding: 0;
+    gap: 16px;
+  }
+}
