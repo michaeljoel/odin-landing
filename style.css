@@ -172,3 +172,8 @@ body {
   color: #f9faf8;
   padding: 32px;
 }
+
+.container {
+  padding-left: 15%;
+  padding-right: 15%;
+}
