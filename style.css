@@ -159,10 +159,11 @@ body {
 
 .cta-text {
   color: #e5e7eb;
+  font-size: 18px;
 }
 
 .cta-main {
-  font-weight: 900;
+  font-weight: 700;
 }
 
 .cta-button {
@@ -173,6 +174,7 @@ body {
   padding: 8px 16px;
   margin: 8px 0px;
   font-weight: 900;
+  font-size: 18px;
 }
 
 .footer {
